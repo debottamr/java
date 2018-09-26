@@ -1,0 +1,15 @@
+2018-09-26T01:36:33.223-0700 INFO Starting App on localhost.localdomain with PID 8453 (/home/debottamr/javaworkspace/config/target/classes started by debottamr in /home/debottamr/javaworkspace/config)
+2018-09-26T01:36:33.223-0700 DEBUG Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-09-26T01:36:33.224-0700 INFO No active profile set, falling back to default profiles: default
+2018-09-26T01:37:05.550-0700 INFO Starting App on localhost.localdomain with PID 8491 (/home/debottamr/javaworkspace/config/target/classes started by debottamr in /home/debottamr/javaworkspace/config)
+2018-09-26T01:37:05.551-0700 DEBUG Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-09-26T01:37:05.551-0700 INFO No active profile set, falling back to default profiles: default
+2018-09-26T01:37:46.240-0700 INFO Starting App on localhost.localdomain with PID 8559 (/home/debottamr/javaworkspace/config/target/classes started by debottamr in /home/debottamr/javaworkspace/config)
+2018-09-26T01:37:46.241-0700 DEBUG Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-09-26T01:37:46.242-0700 INFO No active profile set, falling back to default profiles: default
+2018-09-26T01:37:53.140-0700 INFO Started App in 8.092 seconds (JVM running for 10.725)
+2018-09-26T01:37:53.143-0700 INFO Application Started 2!!
+2018-09-26T01:37:53.143-0700 INFO Application Started !!
+2018-09-26T01:37:53.145-0700 INFO Info level log message
+2018-09-26T01:37:53.145-0700 DEBUG Debug level log message
+2018-09-26T01:37:53.145-0700 ERROR Error level log message
