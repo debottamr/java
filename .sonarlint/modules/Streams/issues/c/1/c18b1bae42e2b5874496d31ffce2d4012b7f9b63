@@ -1,0 +1,19 @@
+
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”ãîıÿÿÿÿ8Ú…ÂœÛ,HÃRMINORZ
+CODE_SMELL
+^squid:S1068&"*Remove this unused "salary" private field.(×„ë‡8­ğÂœÛ,H×RMAJORZ
+CODE_SMELL
+bsquid:S1068"")Remove this unused "empId" private field.(ÒÑ†±şÿÿÿÿ8­ğÂœÛ,HÕRMAJORZ
+CODE_SMELL
+`squid:S1068#"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8­ğÂœÛ,HÖRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(“²Û·8Ú…ÂœÛ,H¿RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡¶Òúÿÿÿÿ8Ú…ÂœÛ,H¾RMAJORZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”ãîıÿÿÿÿ8Ú…ÂœÛ,HÂRMINORZ
+CODE_SMELL
+˜squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "empList".(Ï«Ã›ùÿÿÿÿ8Ú…ÂœÛ,HÀRMINORZ
+CODE_SMELL

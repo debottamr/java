@@ -1,0 +1,14 @@
+
+qsquid:S11979"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8„ŸÃÇÞ,HâgRMINORZ
+CODE_SMELL
+q
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¶»¡œþÿÿÿÿ8„ŸÃÇÞ,HãgRMAJORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(öŠÕøÿÿÿÿÿ8„ŸÃÇÞ,HägRMAJORZ
+CODE_SMELL
+lsquid:S1610"8Convert the abstract class "TextFile" into an interface.(Þ„ùõ8„ŸÃÇÞ,HægRMINORZ
+CODE_SMELL
+q
+squid:S106A"9Replace this use of System.out or System.err by a logger.(å´Æµøÿÿÿÿ8„ŸÃÇÞ,HågRMAJORZ
+CODE_SMELL

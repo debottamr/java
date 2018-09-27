@@ -1,0 +1,10 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•½º£üÿÿÿÿ8­¦Øß,H›wRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(þ½À úÿÿÿÿ8®¦Øß,HœwRMAJORZ
+CODE_SMELL
+hsquid:S1481"4Remove this unused "mergedStatement" local variable.(èÓ™ë8®¦Øß,HwRMINORZ
+CODE_SMELL
+wsquid:S1854"CRemove this useless assignment to local variable "mergedStatement".(èÓ™ë8®¦Øß,HžwRMAJORZ
+CODE_SMELL

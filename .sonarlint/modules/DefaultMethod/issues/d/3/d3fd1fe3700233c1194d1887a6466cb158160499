@@ -1,0 +1,18 @@
+
+ssquid:S1161
+":Add the "@Override" annotation above this method signature(Î·úˆúÿÿÿÿ8Àµ—ŸÛ,H²RMAJORZ
+CODE_SMELL
+^squid:S1481"*Remove this unused "myInt" local variable.(»óÿ‚8Àµ—ŸÛ,H°RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ð­§Üÿÿÿÿÿ8Àµ—ŸÛ,H­RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ä‡¯ûÿÿÿÿ8Àµ—ŸÛ,H®RMAJORZ
+CODE_SMELL
+rsquid:S3400"9Remove this method and declare a constant for this value.(àí–Ÿþÿÿÿÿ8Àµ—ŸÛ,H¯RMINORZ
+CODE_SMELL
+msquid:S1854"9Remove this useless assignment to local variable "myInt".(»óÿ‚8Àµ—ŸÛ,H±RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H«RMINORZ
+CODE_SMELL

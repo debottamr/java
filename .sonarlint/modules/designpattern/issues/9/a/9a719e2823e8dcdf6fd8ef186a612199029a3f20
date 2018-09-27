@@ -1,0 +1,7 @@
+
+ª"squid:ClassVariableVisibilityCheck%"WMake fileEmailer a static final constant or non-public and provide accessors if needed.(ã¿şÿÿÿÿ8×Å¯ÇŞ,HÛgRMINORZVULNERABILITY
+ssquid:S1161+":Add the "@Override" annotation above this method signature(—ÈÀàúÿÿÿÿ8×Å¯ÇŞ,HÜgRMAJORZ
+CODE_SMELL
+¦"squid:ClassVariableVisibilityCheck"XMake emailAddress a static final constant or non-public and provide accessors if needed.(œ°­æ8×Å¯ÇŞ,HÚgRMINORZVULNERABILITY
+qsquid:S11972"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8×Å¯ÇŞ,HÙgRMINORZ
+CODE_SMELL

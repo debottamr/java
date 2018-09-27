@@ -1,0 +1,7 @@
+
+squid:S1450"[Remove the "totalBalance" field and declare it as a local variable in the relevant methods.(š‡êÿ8¡±Óß,H“wRMINORZ
+CODE_SMELL
+esquid:S1659",Declare "individualStmt" on a separate line.(±œ‰øÿÿÿÿ8¡±Óß,H’wRMINORZ
+CODE_SMELL
+–squid:S1450"]Remove the "individualStmt" field and declare it as a local variable in the relevant methods.(±œ‰øÿÿÿÿ8¡±Óß,H”wRMINORZ
+CODE_SMELL

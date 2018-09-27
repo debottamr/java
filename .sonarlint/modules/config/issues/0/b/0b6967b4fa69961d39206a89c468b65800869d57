@@ -1,0 +1,15 @@
+
+fsquid:S1199="-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÀÑ™‰á,H€zRMINORZ
+CODE_SMELL
+fsquid:S1199X"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÀÑ™‰á,HzRMINORZ
+CODE_SMELL
+squid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÅÇ8ÀÑ™‰á,HıyRMINORZ
+CODE_SMELL
+squid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡æï8ÀÑ™‰á,HûyRMINORZ
+CODE_SMELL
+Œsquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ½8ÀÑ™‰á,HüyRMINORZ
+CODE_SMELL
+fsquid:S1199T"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÀÑ™‰á,HşyRMINORZ
+CODE_SMELL
+fsquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÀÑ™‰á,HÿyRMINORZ
+CODE_SMELL

@@ -1,0 +1,65 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÉìäÿÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(€³à H°RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úğ–ÇH±RMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Óë›ÅûÿÿÿÿH²RMAJORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÑÈ·×ûÿÿÿÿH³RMAJORZ
+CODE_SMELL
+e
+squid:S106/"9Replace this use of System.out or System.err by a logger.(•¯µH´RMAJORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(§‰HµRMAJORZ
+CODE_SMELL
+j
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¼ÇŒşÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+e
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¢çH·RMAJORZ
+CODE_SMELL
+e
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¢çH¸RMAJORZ
+CODE_SMELL
+e
+squid:S106L"9Replace this use of System.out or System.err by a logger.(‘ÊâÂH¹RMAJORZ
+CODE_SMELL
+j
+squid:S106P"9Replace this use of System.out or System.err by a logger.(›‹úÿÿÿÿHºRMAJORZ
+CODE_SMELL
+e
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ãÚ–ûH»RMAJORZ
+CODE_SMELL
+e
+squid:S106]"9Replace this use of System.out or System.err by a logger.( “Ó•H¼RMAJORZ
+CODE_SMELL
+e
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ã‹Â¡H½RMAJORZ
+CODE_SMELL
+j
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ßÿŞÎşÿÿÿÿH¾RMAJORZ
+CODE_SMELL
+e
+squid:S106g"9Replace this use of System.out or System.err by a logger.(²­‚óH¿RMAJORZ
+CODE_SMELL
+j
+squid:S106h"9Replace this use of System.out or System.err by a logger.(«•ùóùÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+j
+squid:S106i"9Replace this use of System.out or System.err by a logger.(£¸­‚üÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+e
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ùå¹ÃHÂRMAJORZ
+CODE_SMELL
+Ysquid:S1481",Remove this unused "myList1" local variable.(¶¨ïæHÃRMINORZ
+CODE_SMELL
+hsquid:S1854";Remove this useless assignment to local variable "myList1".(¶¨ïæHÄRMAJORZ
+CODE_SMELL

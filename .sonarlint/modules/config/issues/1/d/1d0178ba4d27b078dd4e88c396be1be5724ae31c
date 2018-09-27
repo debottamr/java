@@ -1,0 +1,4 @@
+
+¡"squid:ClassVariableVisibilityCheck"SMake zipCode a static final constant or non-public and provide accessors if needed.(Ó§§¦8¸ü£‰á,H³zRMINORZVULNERABILITY
+¦"squid:ClassVariableVisibilityCheck"SMake houseNo a static final constant or non-public and provide accessors if needed.(µöšËÿÿÿÿÿ8¸ü£‰á,H²zRMINORZVULNERABILITY
+¡"squid:ClassVariableVisibilityCheck"TMake streetNo a static final constant or non-public and provide accessors if needed.(™Íìq8¸ü£‰á,H±zRMINORZVULNERABILITY

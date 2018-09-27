@@ -1,0 +1,4 @@
+
+¯"squid:ClassVariableVisibilityCheck"\Make employeeNameList a static final constant or non-public and provide accessors if needed.(íöØîÿÿÿÿÿ8ëŸŸ‰á,H¢zRMINORZVULNERABILITY
+isquid:S1948"-Make "employeeNameList" private or transient.(íöØîÿÿÿÿÿ8ëŸŸ‰á,H£zRCRITICALZ
+CODE_SMELL

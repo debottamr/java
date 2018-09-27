@@ -1,0 +1,11 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ’ÊØHüvRMINORZ
+CODE_SMELL
+‚squid:S00116"NRename this field "HDD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜ú%8ú§Ëß,HıvRMINORZ
+CODE_SMELL
+ˆsquid:S00116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ8ú§Ëß,HşvRMINORZ
+CODE_SMELL
+‚squid:S00116)"NRename this field "HDD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜ú%8ú§Ëß,HÿvRMINORZ
+CODE_SMELL
+ˆsquid:S00116*"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ8ú§Ëß,H€wRMINORZ
+CODE_SMELL

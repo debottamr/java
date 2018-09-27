@@ -1,0 +1,43 @@
+
+l
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¾­¨¤8¸Ñ”ÈŞ,HÔuRMAJORZ
+CODE_SMELL
+squid:S2975*"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(÷¦òúÿÿÿÿ8¸Ñ”ÈŞ,HÕuRBLOCKERZ
+CODE_SMELL
+‰squid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(É×üÈ8¸Ñ”ÈŞ,HÖuRBLOCKERZ
+CODE_SMELL
+l
+squid:S106`"9Replace this use of System.out or System.err by a logger.(‹è–Ü8¸Ñ”ÈŞ,H×uRMAJORZ
+CODE_SMELL
+ˆsquid:S1192J"LDefine a constant instead of duplicating this literal "Association" 4 times.(ø—½šøÿÿÿÿ8¸Ñ”ÈŞ,HØuRCRITICALZ
+CODE_SMELL
+q
+squid:S106f"9Replace this use of System.out or System.err by a logger.(‡ã¤üÿÿÿÿ8¸Ñ”ÈŞ,HÙuRMAJORZ
+CODE_SMELL
+†squid:S1192I"JDefine a constant instead of duplicating this literal "Attribute" 4 times.(ë›­İøÿÿÿÿ8¸Ñ”ÈŞ,HÚuRCRITICALZ
+CODE_SMELL
+Zsquid:S1148i"#Use a logger to log this exception.(˜ŠÆ»8¸Ñ”ÈŞ,HÛuRMINORZVULNERABILITY
+q
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ĞĞÎ©ùÿÿÿÿ8¸Ñ”ÈŞ,HÜuRMAJORZ
+CODE_SMELL
+‰squid:S2975="SRemove this "clone" implementation; use a copy constructor or copy factory instead.(åÀÿ÷8¸Ñ”ÈŞ,HİuRBLOCKERZ
+CODE_SMELL
+qsquid:S1197\"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¸Ñ”ÈŞ,HŞuRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(àí¹šüÿÿÿÿ8¸Ñ”ÈŞ,HßuRMAJORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ø±ØÒüÿÿÿÿ8¸Ñ”ÈŞ,HàuRMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ãöğÿ8¸Ñ”ÈŞ,HáuRMAJORZ
+CODE_SMELL
+squid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶éÂó8¸Ñ”ÈŞ,HâuRMINORZ
+CODE_SMELL
+p"squid:SwitchLastCaseIsDefaultCheckN""Add a default case to this switch.(ÕÒ8¸Ñ”ÈŞ,HãuRCRITICALZ
+CODE_SMELL
+squid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(’®¹øÿÿÿÿ8¸Ñ”ÈŞ,HäuRBLOCKERZ
+CODE_SMELL
+}squid:S1192H"FDefine a constant instead of duplicating this literal "Class" 4 times.(Ö§×Ò8¸Ñ”ÈŞ,HåuRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+
+­"squid:ClassVariableVisibilityCheck"_Make employeeAddressList a static final constant or non-public and provide accessors if needed.(ÚŽî‰8¾­¢‰á,H®zRMINORZVULNERABILITY
+gsquid:S1948"0Make "employeeAddressList" private or transient.(ÚŽî‰8¾­¢‰á,H¯zRCRITICALZ
+CODE_SMELL

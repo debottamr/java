@@ -1,0 +1,21 @@
+
+ƒsquid:S1192
+"GDefine a constant instead of duplicating this literal "Single" 4 times.(ñç¼Íûÿÿÿÿ8¥šÿß,HºwRCRITICALZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Ø°ıøÿÿÿÿ8¥šÿß,H»wRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú ¯l8¥šÿß,H¼wRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ÎÎ’8¥šÿß,H½wRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(èàøÌüÿÿÿÿ8¥šÿß,H¾wRMAJORZ
+CODE_SMELL
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ò¼‘©ûÿÿÿÿ8¥šÿß,H¿wRMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ıÍ­ß8¥šÿß,HÀwRMAJORZ
+CODE_SMELL

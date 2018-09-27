@@ -1,0 +1,23 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ºŒ<8´æàœÛ,H RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘±ž¨øÿÿÿÿ8“ÖØœÛ,H˜RMAJORZ
+CODE_SMELL
+`squid:S1612",Replace this lambda with a method reference.(áÝäŸ8“ÖØœÛ,HœRMINORZ
+CODE_SMELL
+˜squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "empList".(€”Üüÿÿÿÿ8“ÖØœÛ,HšRMINORZ
+CODE_SMELL
+`squid:S1612",Replace this lambda with a method reference.(Éëë¼8´æàœÛ,H¡RMINORZ
+CODE_SMELL
+esquid:S1612",Replace this lambda with a method reference.(ØÈƒŠüÿÿÿÿ8Ä–àœÛ,HžRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éëë¼8Ä–àœÛ,HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(œá««þÿÿÿÿ8“ÖØœÛ,H™RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŽÚÜ¬ùÿÿÿÿ8Ãê½žÛ,HÈRMAJORZ
+CODE_SMELL

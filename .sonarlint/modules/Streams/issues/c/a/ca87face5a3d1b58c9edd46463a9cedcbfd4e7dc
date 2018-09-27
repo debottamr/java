@@ -1,0 +1,10 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ÉêŒýÿÿÿÿ8¤”¹œÛ,HªRMAJORZ
+CODE_SMELL
+“squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "empList".(Øç¶ç8¤”¹œÛ,H¬RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìå‘Ÿþÿÿÿÿ8¤”¹œÛ,H«RMAJORZ
+CODE_SMELL
+esquid:S1612",Replace this lambda with a method reference.(Ú‹¿“úÿÿÿÿ8¤”¹œÛ,H­RMINORZ
+CODE_SMELL

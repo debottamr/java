@@ -1,0 +1,32 @@
+
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(¤È–8ôÇëÛ,HRMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(èæñ8ôÇëÛ,HŒRMAJORZ
+CODE_SMELL
+csquid:S1611""/Remove the parentheses around the "n" parameter(¤È–8ôÇëÛ,H’RMINORZ
+CODE_SMELL
+squid:S1192"HDefine a constant instead of duplicating this literal "name - " 4 times.(¤²Óä8ôÇëÛ,H‹RCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(§×Í´ıÿÿÿÿ8ê½äÛ,H†RMAJORZ
+CODE_SMELL
+csquid:S1611&"/Remove the parentheses around the "n" parameter(à¡á¦8ôÇëÛ,H“RMINORZ
+CODE_SMELL
+hsquid:S1611"/Remove the parentheses around the "n" parameter(§×Í´ıÿÿÿÿ8ê½äÛ,H‡RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¡äÓıÿÿÿÿ8‰ èÛ,HˆRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤²Óä8Œ°âÛ,H„RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(à¡á¦8ôÇëÛ,HRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(˜’¨¥ûÿÿÿÿ8ôÇëÛ,HRMAJORZ
+CODE_SMELL
+hsquid:S1611"/Remove the parentheses around the "n" parameter(»úÃşÿÿÿÿÿ8‰ èÛ,H‰RMINORZ
+CODE_SMELL
