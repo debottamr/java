@@ -1,0 +1,4 @@
+CustomerId,OrderId,Item
+1,111,Laptop
+1,222,Printer
+3,333,Monitor
