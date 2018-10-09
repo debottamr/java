@@ -42,6 +42,7 @@ public class ComparatorEx {
 		 
 		System.out.println(employeesArray);
 		
+		
 	}
 
 	private static List<Employee> getEmployees() {
