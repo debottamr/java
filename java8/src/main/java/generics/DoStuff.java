@@ -59,7 +59,6 @@ public class DoStuff{
         //The only thing we are allowed to insert, is the 'null' object, since it's common to
         //all types.
         this.list1.add(null);
-        
         //We can, however get objects from the list.
         //We know that the objects in the list extend from Shape. It might be Rectangles, Circles
         //or Shapes. Either way, the common ancestor is Shape.
