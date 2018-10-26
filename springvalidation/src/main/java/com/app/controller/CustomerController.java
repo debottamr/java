@@ -30,7 +30,7 @@ public class CustomerController {
     public String submit(@Valid @ModelAttribute("customer") final Customer customer, final BindingResult result, final ModelMap model) {
         validator.validate(customer, result);
         if (result.hasErrors()) {
-            return  "customerView";
+            return  "customerHome";
         }
         model.addAttribute("customerId", customer.getCustomerId());
         model.addAttribute("customerName", customer.getCustomerName());

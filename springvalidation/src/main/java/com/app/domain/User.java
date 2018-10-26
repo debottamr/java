@@ -20,7 +20,7 @@ public class User {
     @NotBlank
     private String name;
 
-    @Min(18)
+    @Min(19)
     @Digits(integer = 2, fraction = 0)
     private int age;
 

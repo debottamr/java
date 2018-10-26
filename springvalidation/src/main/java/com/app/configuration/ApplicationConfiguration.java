@@ -35,7 +35,7 @@ public class ApplicationConfiguration implements WebMvcConfigurer {
         InternalResourceViewResolver bean = new InternalResourceViewResolver();
         bean.setPrefix("/WEB-INF/views/");
         bean.setSuffix(".jsp");
-        bean.setOrder(1);
+        bean.setOrder(2);
         return bean;
     }
 
@@ -44,7 +44,7 @@ public class ApplicationConfiguration implements WebMvcConfigurer {
         InternalResourceViewResolver bean = new InternalResourceViewResolver();
         bean.setPrefix("/WEB-INF/html/");
         bean.setSuffix(".html");
-        bean.setOrder(2);
+        bean.setOrder(1);
         return bean;
     }
 
