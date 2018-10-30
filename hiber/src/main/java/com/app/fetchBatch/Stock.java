@@ -1,4 +1,4 @@
-package com.app.onetomany.entity;
+package com.app.fetchBatch;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
@@ -10,15 +10,18 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
+import org.hibernate.annotations.BatchSize;
+import org.hibernate.annotations.Cascade;
+import org.hibernate.annotations.CascadeType;
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
+
 @Entity
-@Table(name = "stock", catalog = "hibernatetest", uniqueConstraints = {
-		@UniqueConstraint(columnNames = "STOCK_NAME"),
-		@UniqueConstraint(columnNames = "STOCK_CODE") })
+@Table(name = "stock", catalog = "hibernatetest")
 public class Stock implements java.io.Serializable {
 
 	private Integer stockId;
@@ -44,7 +47,7 @@ public class Stock implements java.io.Serializable {
 
 	@Id
 	@GeneratedValue(strategy = IDENTITY)
-	@Column(name = "STOCK_ID", unique = true, nullable = false)
+	@Column(name = "STOCK_ID", nullable = false)
 	public Integer getStockId() {
 		return this.stockId;
 	}
@@ -53,7 +56,7 @@ public class Stock implements java.io.Serializable {
 		this.stockId = stockId;
 	}
 
-	@Column(name = "STOCK_CODE", unique = true, nullable = false, length = 10)
+	@Column(name = "STOCK_CODE",  nullable = false, length = 10)
 	public String getStockCode() {
 		return this.stockCode;
 	}
@@ -62,7 +65,7 @@ public class Stock implements java.io.Serializable {
 		this.stockCode = stockCode;
 	}
 
-	@Column(name = "STOCK_NAME", unique = true, nullable = false, length = 20)
+	@Column(name = "STOCK_NAME", nullable = false, length = 20)
 	public String getStockName() {
 		return this.stockName;
 	}
@@ -72,6 +75,9 @@ public class Stock implements java.io.Serializable {
 	}
 
 	@OneToMany(fetch = FetchType.LAZY, mappedBy = "stock")
+	@Cascade(CascadeType.ALL)
+	@Fetch(FetchMode.SELECT)
+	@BatchSize(size = 2)
 	public Set<StockDailyRecord> getStockDailyRecords() {
 		return this.stockDailyRecords;
 	}
